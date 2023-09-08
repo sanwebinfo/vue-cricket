@@ -1,0 +1,6 @@
+
+# Netlify redirects file, edit with your domain
+# https://www.netlify.com/docs/redirects/
+
+https://cricketmsk.netlify.app/* https://score.mskian.com/:splat 301!
+http://cricketmsk.netlify.app/* https://score.mskian.com/:splat 301!
