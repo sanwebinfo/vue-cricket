@@ -144,8 +144,8 @@
                 </p>
                 <br>
                 <div class="buttons is-centered">
-                  <a href="https://github.com/mskian/vue-cricket" class="button is-success read-random" target="_blank" rel="nofollow noopener">📦 Souce Code</a>
-                  <a href="https://github.com/mskian/python-cricket-score/tree/main/api" class="btn button is-link read-random" target="_blank" rel="nofollow noopener">🗃 API Data</a>
+                  <a href="https://github.com/sanwebinfo/vue-cricket" class="button is-success read-random" target="_blank" rel="nofollow noopener">📦 Souce Code</a>
+                  <a href="https://github.com/sanwebinfo/python-cricket-score/tree/main/api" class="btn button is-link read-random" target="_blank" rel="nofollow noopener">🗃 API Data</a>
                 </div>
                 <br>
               </div>

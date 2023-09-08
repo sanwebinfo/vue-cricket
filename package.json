@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mskian/vue-cricket.git"
+    "url": "git+https://github.com/sanwebinfo/vue-cricket.git"
   },
   "bugs": {
-    "url": "https://github.com/mskian/vue-cricket/issues"
+    "url": "https://github.com/sanwebinfo/vue-cricket/issues"
   },
-  "homepage": "https://github.com/mskian/vue-cricket/#readme",
+  "homepage": "https://github.com/sanwebinfo/vue-cricket/#readme",
   "keywords": [
     "cricket",
     "live score",
